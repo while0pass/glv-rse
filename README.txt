@@ -1,10 +1,11 @@
 Glenn Vanderburg
 
 
-Lone Star Ruby Conference 2010
-==============================
+Lone Star Ruby Conference 2010, Aug 26-28
+=========================================
 Real Software Engineering
 http://www.youtube.com/watch?v=NP9AIUT9nos
+http://cdn.oreillystatic.com/en/assets/1/event/40/Real%20Software%20Engineering%20Presentation.pdf
 
 Software engineering as it's taught in universities simply doesn't work. It
 doesn't produce software systems of high quality, and it doesn't produce them
@@ -20,6 +21,12 @@ and for a reasonable cost? In this session, we'll discuss where software
 engineering went wrong, and build the case that disciplined Agile methods, far
 from being "anti-engineering" (as they are often described), actually represent
 the best of engineering principles applied to the task of software development.
+
+
+JRuby Conf 2010, Oct 1–3
+========================
+Real Software Engineering
+https://vimeo.com/16287115
 
 
 RailsConf 2011, May 16–19
@@ -55,6 +62,27 @@ rejecting almost everything we've been taught about "Software Engineering".
 What engineering really means in the context of software is-as it ought to
 be-very different from what other engineering disciplines practice.
 
+
+O'Reilly Software Architecture Conference 2015, Mar 17-19
+=========================================================
+Real Software Engineering
+http://www.youtube.com/watch?v=zDEpeWQHtFU
+
+I believe strongly that software development is, incontrovertibly, an
+engineering discipline (albeit still an immature one). But a great many people
+in our field have decided that it’s not. I think this is a harmful mistake.
+
+But it’s also a natural one, because most programmers have at least a passing
+familiarity with a body of knowledge known as “software engineering”—a body of
+knowledge that was taken very seriously for 30 years or so, but which has now
+been thoroughly discredited. If “software engineering” doesn’t work, then why
+would anyone say that software development is engineering?
+
+This talk makes the case for software as engineering, and shows that it fits
+comfortably into the spectrum of engineering disciplines. The talk also
+explains why the software engineering field spent so long going down an
+incorrect path, and how we might correct that.
+
 ---------------------------------------
 
 Geoff Moes
@@ -66,5 +94,5 @@ Programming is not a craft
 http://dannorth.net/2011/01/11/programming-is-not-a-craft/comment-page-1/
 
 Nagib Callaos
-The Essence of Engineering and Meta-Engineering: A Work in Progress 
+The Essence of Engineering and Meta-Engineering: A Work in Progress
 http://www.iiis.org/nagib-callaos/engineering-and-meta-engineering/engineering-and-metaengineering.pdf
