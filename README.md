@@ -2,8 +2,11 @@
 *Glenn Vanderburg*
 
 
+
 #### Lone Star Ruby Conference 2010
-*Real Software Engineering*, Aug 26–28
+Aug 26–28
+
+*Real Software Engineering*
 . [video](http://www.youtube.com/watch?v=NP9AIUT9nos)
 . [slides](http://cdn.oreillystatic.com/en/assets/1/event/40/Real%20Software%20Engineering%20Presentation.pdf)
 
@@ -23,25 +26,36 @@ from being "anti-engineering" (as they are often described), actually represent
 the best of engineering principles applied to the task of software development.
 
 
+
 #### JRuby Conf 2010
-*Real Software Engineering*, Oct 1–3
+Oct 1–3
+
+*Real Software Engineering*
 . [video](https://vimeo.com/16287115)
 
 
+
 #### RailsConf 2011
-*Craft, Engineering, and the Essence of Programming*, May 16–19
+May 16–19
+
+*Craft, Engineering, and the Essence of Programming*
 . [video](http://www.youtube.com/watch?v=LlTiMUzLMgM)
 . [review](http://trevmex.com/post/5645499987/craft-engineering-and-the-essence-of-programming)
 
 
 #### QCon 2011
-*Craft and Software Engineering*, Nov 16–19
+Nov 16–19
+
+*Craft and Software Engineering*
 . [video](http://www.infoq.com/presentations/Craft-and-Software-Engineering)
 
 
+
 #### QCon 2012
-Opening Keynote: *Real Software Engineering*, Nov 5–6
-. [page](http://qconsf.com/sf2012/sf2012/speaker/Glenn%2bVanderburg.html)
+Nov 5–6
+
+Opening Keynote: *Real Software Engineering*
+. [keynote page](http://qconsf.com/sf2012/sf2012/speaker/Glenn%2bVanderburg.html)
 . [slides](http://qconsf.com/sf2012/dl/qcon-sanfran-2012/slides/GlennVanderburg_OpeningKeynoteRealSoftwareEngineering.pdf)
 
 For over 40 years, starting in the late 1960s, the "Software Engineering"crowd
@@ -59,8 +73,11 @@ What engineering really means in the context of software is-as it ought to
 be-very different from what other engineering disciplines practice.
 
 
+
 #### O'Reilly Software Architecture Conference 2015
-*Real Software Engineering*, Mar 17–19
+Mar 17–19
+
+*Real Software Engineering*
 . [video](http://www.youtube.com/watch?v=zDEpeWQHtFU)
 
 I believe strongly that software development is, incontrovertibly, an
@@ -77,6 +94,8 @@ This talk makes the case for software as engineering, and shows that it fits
 comfortably into the spectrum of engineering disciplines. The talk also
 explains why the software engineering field spent so long going down an
 incorrect path, and how we might correct that.
+
+
 
 ----------------------------
 
