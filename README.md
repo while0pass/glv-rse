@@ -1,9 +1,9 @@
 # Real Software Engineering
-Glenn Vanderburg
+*Glenn Vanderburg*
 
 
-### Lone Star Ruby Conference 2010, Aug 26–28
-*Real Software Engineering*
+#### Lone Star Ruby Conference 2010
+*Real Software Engineering*, Aug 26–28
 . [video](http://www.youtube.com/watch?v=NP9AIUT9nos)
 . [slides](http://cdn.oreillystatic.com/en/assets/1/event/40/Real%20Software%20Engineering%20Presentation.pdf)
 
@@ -23,24 +23,24 @@ from being "anti-engineering" (as they are often described), actually represent
 the best of engineering principles applied to the task of software development.
 
 
-### JRuby Conf 2010, Oct 1–3
-*Real Software Engineering*
+#### JRuby Conf 2010
+*Real Software Engineering*, Oct 1–3
 . [video](https://vimeo.com/16287115)
 
 
-### RailsConf 2011, May 16–19
-*Craft, Engineering, and the Essence of Programming*
+#### RailsConf 2011
+*Craft, Engineering, and the Essence of Programming*, May 16–19
 . [video](http://www.youtube.com/watch?v=LlTiMUzLMgM)
 . [review](http://trevmex.com/post/5645499987/craft-engineering-and-the-essence-of-programming)
 
 
-### QCon 2011, Nov 16–19
-*Craft and Software Engineering*
+#### QCon 2011
+*Craft and Software Engineering*, Nov 16–19
 . [video](http://www.infoq.com/presentations/Craft-and-Software-Engineering)
 
 
-### QCon 2012, Nov 5–6
-Opening Keynote: *Real Software Engineering*
+#### QCon 2012
+Opening Keynote: *Real Software Engineering*, Nov 5–6
 . [page](http://qconsf.com/sf2012/sf2012/speaker/Glenn%2bVanderburg.html)
 . [slides](http://qconsf.com/sf2012/dl/qcon-sanfran-2012/slides/GlennVanderburg_OpeningKeynoteRealSoftwareEngineering.pdf)
 
@@ -59,8 +59,8 @@ What engineering really means in the context of software is-as it ought to
 be-very different from what other engineering disciplines practice.
 
 
-### O'Reilly Software Architecture Conference 2015, Mar 17–19
-*Real Software Engineering*
+#### O'Reilly Software Architecture Conference 2015
+*Real Software Engineering*, Mar 17–19
 . [video](http://www.youtube.com/watch?v=zDEpeWQHtFU)
 
 I believe strongly that software development is, incontrovertibly, an
@@ -78,16 +78,16 @@ comfortably into the spectrum of engineering disciplines. The talk also
 explains why the software engineering field spent so long going down an
 incorrect path, and how we might correct that.
 
--------------------------------------------------------------------------------
+----------------------------
 
-Geoff Moes
+*Geoff Moes*,
 [Real Software Engineering: The Good, The Bad, and The Ugly]
 (http://www.elegantcoding.com/2012/01/real-software-engineering-good-bad-and.html)
 
-Dan North
+*Dan North*,
 [Programming is not a craft]
 (http://dannorth.net/2011/01/11/programming-is-not-a-craft/comment-page-1/)
 
-Nagib Callaos
+*Nagib Callaos*,
 [The Essence of Engineering and Meta-Engineering: A Work in Progress]
 (http://www.iiis.org/nagib-callaos/engineering-and-meta-engineering/engineering-and-metaengineering.pdf)
