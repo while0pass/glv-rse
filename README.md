@@ -2,10 +2,7 @@
 *Glenn Vanderburg*
 
 
-
-#### Lone Star Ruby Conference 2010
-Aug 26–28
-
+##### Lone Star Ruby Conference 2010, Aug 26–28
 *Real Software Engineering*
 . [video](http://www.youtube.com/watch?v=NP9AIUT9nos)
 . [slides](http://cdn.oreillystatic.com/en/assets/1/event/40/Real%20Software%20Engineering%20Presentation.pdf)
@@ -26,34 +23,23 @@ from being "anti-engineering" (as they are often described), actually represent
 the best of engineering principles applied to the task of software development.
 
 
-
-#### JRuby Conf 2010
-Oct 1–3
-
+##### JRuby Conf 2010, Oct 1–3
 *Real Software Engineering*
 . [video](https://vimeo.com/16287115)
 
 
-
-#### RailsConf 2011
-May 16–19
-
+##### RailsConf 2011, May 16–19
 *Craft, Engineering, and the Essence of Programming*
 . [video](http://www.youtube.com/watch?v=LlTiMUzLMgM)
 . [review](http://trevmex.com/post/5645499987/craft-engineering-and-the-essence-of-programming)
 
 
-#### QCon 2011
-Nov 16–19
-
+##### QCon 2011, Nov 16–19
 *Craft and Software Engineering*
 . [video](http://www.infoq.com/presentations/Craft-and-Software-Engineering)
 
 
-
-#### QCon 2012
-Nov 5–6
-
+##### QCon 2012, Nov 5–6
 Opening Keynote: *Real Software Engineering*
 . [keynote page](http://qconsf.com/sf2012/sf2012/speaker/Glenn%2bVanderburg.html)
 . [slides](http://qconsf.com/sf2012/dl/qcon-sanfran-2012/slides/GlennVanderburg_OpeningKeynoteRealSoftwareEngineering.pdf)
@@ -74,9 +60,7 @@ be-very different from what other engineering disciplines practice.
 
 
 
-#### O'Reilly Software Architecture Conference 2015
-Mar 17–19
-
+##### O'Reilly Software Architecture Conference 2015, Mar 17–19
 *Real Software Engineering*
 . [video](http://www.youtube.com/watch?v=zDEpeWQHtFU)
 
