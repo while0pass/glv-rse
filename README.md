@@ -1,5 +1,7 @@
 # Real Software Engineering
 *Glenn Vanderburg*
+. [Blog Series](https://vanderburg.org/blog/series/real-software-engineering/)
+. [List of the talks](https://vanderburg.org/speaking/#software-engineering)
 
 
 ##### Lone Star Ruby Conference 2010, Aug 26–28
