@@ -81,16 +81,41 @@ incorrect path, and how we might correct that.
 
 
 
+##### Software Art Thou? 2018
+*Real Software Engineering*
+. [video](https://youtu.be/RhdlBHHimeM)
+
+The idea is spreading that perhaps software development is simply incompatible
+with engineering; that software developers are not, and never will be, real
+engineers. Glenn Vanderburg, VP of Engineering at First, takes a fresh look at
+what that really should mean for this field. With an extra 45 years of
+experience about the task of programming, and a broad survey of the varied
+different engineering disciplines, can we envision a future for a field of
+“software engineering” that is worthy of the name?
+
+
+
 ----------------------------
 
-*Geoff Moes*,
-[Real Software Engineering: The Good, The Bad, and The Ugly]
-(http://www.elegantcoding.com/2012/01/real-software-engineering-good-bad-and.html)
+- *Geoff Moes*,
+  [Real Software Engineering: The Good, The Bad, and The Ugly](
+  http://www.elegantcoding.com/2012/01/real-software-engineering-good-bad-and.html)
 
-*Dan North*,
-[Programming is not a craft]
-(http://dannorth.net/2011/01/11/programming-is-not-a-craft/comment-page-1/)
+- *Dan North*,
+  [Programming is not a craft](
+  http://dannorth.net/2011/01/11/programming-is-not-a-craft/comment-page-1/)
 
-*Nagib Callaos*,
-[The Essence of Engineering and Meta-Engineering: A Work in Progress]
-(http://www.iiis.org/nagib-callaos/engineering-and-meta-engineering/engineering-and-metaengineering.pdf)
+- *Nagib Callaos*,
+  [The Essence of Engineering and Meta-Engineering: A Work in Progress](
+  http://www.iiis.org/nagib-callaos/engineering-and-meta-engineering/engineering-and-metaengineering.pdf)
+
+- *Juval Lowy*,
+  [Composable Design](https://youtu.be/zp6jaSKho_Y)
+
+- *Juval Löwy*,
+  [Righting Sowftware](
+  https://ipfs.io/ipfs/bafykbzacecl5z3qfpz4tigxeuwzcz7mhtsrpfguakch46diuqqlit5s3ytiri)
+
+- *Mary Shaw*,
+  [Progress Toward an Engineering Discipline of Software](
+  https://youtu.be/lLnsi522LS8) // GOTO 2015
